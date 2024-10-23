@@ -53,5 +53,9 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 <br>  <!-- You can use this if more space is needed -->
 
 ## Contact
-- E-mail:	narges [dot] tavassoli-kejani [at] univ-lille [dot] fr
-- Office:	CRIStAL, Université de Lille, Campus scientifique, Bâtiment ESPRIT, Office S03.03 
+**E-mail:**	narges [dot] tavassoli-kejani [at] univ-lille [dot] fr
+CRIStAL, Université de Lille
+Campus Scientifique
+Bâtiment ESPRIT, Office S03.06
+Cité Scientifique,
+59650 Villeneuve d'Ascq, France
