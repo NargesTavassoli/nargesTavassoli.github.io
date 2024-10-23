@@ -5,7 +5,7 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 
 &nbsp;
 
-## Talks
+## <span style="color:#3498db">Talks</span> 
 **The Parameterized Complexity of Local Search for MTSP**
 - 21 November 2024 - [JGA](https://jga2024.sciencesconf.org/584823), Dijon, France
 
