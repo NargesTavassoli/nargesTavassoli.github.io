@@ -63,4 +63,12 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
   Cité Scientifique,  
   59650 Villeneuve d'Ascq, France  
 
+![Email](https://img.icons8.com/ios-filled/10/000000/email.png) narges [dot] tavassoli-kejani [at] univ-lille [dot] fr 
+![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png) [Narges Tavassoli](https://www.linkedin.com/in/narges-tavassoli)   
+![Location](https://img.icons8.com/ios-filled/15/000000/marker.png)  
+ CRIStAL, Université de Lille   
+  Campus Scientifique  
+  Bâtiment ESPRIT, Office S03.06  
+  Cité Scientifique,  
+  59650 Villeneuve d'Ascq, France  
 
