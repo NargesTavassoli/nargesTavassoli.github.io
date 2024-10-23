@@ -54,7 +54,7 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](narges [dot] tavassoli-kejani [at] univ-lille [dot] fr)   
+[![Email]](narges.tavassoli-kejani@univ-lille.fr)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/narges-tavassoli/))
 [![Location](https://img.shields.io/badge/location-59650_Villeneuve_d'Ascq-ff69b4?style=flat&logo=google-maps&logoColor=white)](
 CRIStAL, Université de Lille   
