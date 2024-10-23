@@ -9,8 +9,8 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - Bachelor of Science in Mathematics | Yazd University, Iran (_ 2011–2015_)
-- -  The admission requirement is to ranked among top 5% in Nationwide University Entrance Exam
-- - Cumulative GPA: 15.71/20, First top B.Sc. student
+  -  The admission requirement is to ranked among top 5% in Nationwide University Entrance Exam
+  - Cumulative GPA: 15.71/20, First top B.Sc. student
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
