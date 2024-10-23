@@ -12,6 +12,7 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 **Mathematics and Statistics:** Azad University of Isfahan, 2019 - 2022
 **Combinatorics:** TA, Isfahan University of Technology, Fall 2016
 
+
 # Education
 **Ph.D.  in Computer Science (Dec 2023 - Present)**
 - [Université de Lille](https://www.univ-lille.fr/), Lille, France
