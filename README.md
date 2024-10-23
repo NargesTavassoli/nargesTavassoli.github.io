@@ -2,17 +2,18 @@
 I am currently pursuing a PhD at the Centre de Recherche en Informatique, Signal et Automatique de Lille ([CRIStAL](https://www.cristal.univ-lille.fr/en/)), affiliated with [Université de Lille](https://www.univ-lille.fr/). As a member of the Operational Research, Knowledge, and Data ([ORKAD](https://orkad.univ-lille.fr/)) team, my research focuses on developing parameterized techniques to solve multi-objective optimization problems. I am fortunate to be supervised by [Laetitia Jourdan]([https://www.cristal.univ-lille.fr/profil/jourdan/](https://pro.univ-lille.fr/laetitia-jourdan)) and [Marie-Éléonore Kessaci](https://pro.univ-lille.fr/marie-eleonore-kessaci), experts in multi-objective optimization, as well as [Julien Baste](https://www.iut-info.univ-lille.fr/~julien.baste/) and [Marie-Emilie Voge](https://pro.univ-lille.fr/marie-emilie-voge), whose expertise in parameterized complexity has greatly enriched my academic journey.
 
 With a strong foundation in mathematics, I aim to contribute to advancements in multi-objective optimization, applying both theoretical frameworks and practical methodologies. I am passionate about utilizing parameterized techniques to tackle complex, real-world optimization challenges and drive innovation in this field.
-
+<be>
+<br>
 # Talks
 **The Parameterized Complexity of Local Search for MTSP**
 - 21 November 2024 - [JGA](https://jga2024.sciencesconf.org/584823), Dijon, France
-
+<br>
 # Lectures
 **Discrete Mathematics:** Azad University of Isfahan, 2019 - 2022
 **Mathematics and Statistics:** Azad University of Isfahan, 2019 - 2022
 **Combinatorics:** TA, Isfahan University of Technology, Fall 2016
-
-
+<br>
+<br>
 # Education
 **Ph.D.  in Computer Science (Dec 2023 - Present)**
 - [Université de Lille](https://www.univ-lille.fr/), Lille, France
