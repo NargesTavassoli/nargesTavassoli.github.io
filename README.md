@@ -54,7 +54,7 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 
 ## Contact
 S03.06, Bâtiment ESPRIT, CRIStAL, Villeneuve d'Ascq, France   
-Email: narges [dot] tavassoli-kejani [at] univ-lille [dot] fr    
+Email: narges [dot] tavassoli-kejani [at] univ-lille [dot] fr , tavassoli [dot] narges [at] gmail [dot] com   
 Profiles: [LinkedIn](https://www.linkedin.com/in/narges-tavassoli)    
 
 
