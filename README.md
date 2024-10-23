@@ -55,18 +55,18 @@ With a strong foundation in mathematics, I aim to contribute to advancements in 
 ## Contact
 
 [![Email](https://img.icons8.com/ios-filled/50/000000/email.png)] narges.tavassoli-kejani@univ-lille.fr  
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)]([https://www.linkedin.com/in/narges-tavassoli/])))
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)] https://www.linkedin.com/in/narges-tavassoli  
 [![Location](https://img.icons8.com/ios-filled/50/000000/marker.png)](https://goo.gl/maps/examplelink)
 
 
 
-[![Email]](narges.tavassoli-kejani@univ-lille.fr)   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/narges-tavassoli/))
-[![Location](https://img.shields.io/badge/location-59650_Villeneuve_d'Ascq-ff69b4?style=flat&logo=google-maps&logoColor=white)](
+[![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)] narges.tavassoli-kejani@univ-lille.fr   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/narges-tavassoli])  
+[![Location](https://img.shields.io/badge/location-59650_Villeneuve_d'Ascq-ff69b4?style=flat&logo=google-maps&logoColor=white)]
 CRIStAL, Université de Lille   
 Campus Scientifique  
 Bâtiment ESPRIT, Office S03.06  
 Cité Scientifique,  
-59650 Villeneuve d'Ascq, France  )
+59650 Villeneuve d'Ascq, France  
 
 
