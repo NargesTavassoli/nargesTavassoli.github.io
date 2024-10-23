@@ -1,11 +1,16 @@
-# Data Scientist
+## About me
+I am currently pursuing a PhD at the Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL), affiliated with Université de Lille. As a member of the Operational Research, Knowledge, and Data (ORKAD) team, my research focuses on developing parameterized techniques to solve multi-objective optimization problems. I am fortunate to be supervised by Prof. Laetitia Jourdan and Prof. Marie-Éléonore Kessaci, experts in multi-objective optimization, as well as Dr. Julien Baste and Dr. Marie-Emilie Voge, whose expertise in parameterized complexity has greatly enriched my academic journey.
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+With a strong foundation in mathematics, I aim to contribute to advancements in multi-objective optimization, applying both theoretical frameworks and practical methodologies. I am passionate about utilizing parameterized techniques to tackle complex, real-world optimization challenges and drive innovation in this field.
+
+## Talks
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor of Science in Mathematics | Yazd University, Iran (_ 2011–2015_)
+- -  The admission requirement is to ranked among top 5% in Nationwide University Entrance Exam
+- - Cumulative GPA: 15.71/20, First top B.Sc. student
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
