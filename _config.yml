@@ -1,6 +1,7 @@
 title: Narges Tavassoli
 logo: assets/img/me.png
-description: narges [dot] tavassoli-kejani [at] univ-lille [dot] fr  
+description: S03.06, Bâtiment ESPRIT, CRIStAL, Villeneuve d'Ascq, France  | 
+narges [dot] tavassoli-kejani [at] univ-lille [dot] fr  |
 # social:
 #   linkedin: https://www.linkedin.com/in/narges-tavassoli
 # Oficce: S03.06, Bâtiment ESPRIT, CRIStAL, Villeneuve d'Ascq, France   
@@ -8,16 +9,16 @@ description: narges [dot] tavassoli-kejani [at] univ-lille [dot] fr
 # Email: tavassoli [dot] narges [at] gmail [dot] com   
 # Profiles: [LinkedIn](https://www.linkedin.com/in/narges-tavassoli)  
 # show_downloads: true
-author:
-  name: John Doe
-  email: mailto:john.doe@example.com
-  address: |
-    123 Main Street,
-    Suite 456,
-    City, State, ZIP,
-    Country
-social:
-  Linkedin: https://www.linkedin.com/in/john-doe/
-  GitHub: https://github.com/johndoe
-  twitter: https://twitter.com/johndoe
-theme: jekyll-theme-minimal
+# author:
+#   name: John Doe
+#   email: mailto:john.doe@example.com
+#   address: |
+#     123 Main Street,
+#     Suite 456,
+#     City, State, ZIP,
+#     Country
+# social:
+#   Linkedin: https://www.linkedin.com/in/john-doe/
+#   GitHub: https://github.com/johndoe
+#   twitter: https://twitter.com/johndoe
+# theme: jekyll-theme-minimal
